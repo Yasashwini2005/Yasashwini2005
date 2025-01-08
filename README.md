@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yasashwini2005
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently doing bachelors in technology
 - 📫 How to reach me yasashwini31@gmail.com
 
 <!---
