@@ -16,11 +16,11 @@ A curious mind exploring the intersection of <b>AI</b> 🧠 and <b>Full-Stack De
 
 ### 🌈 About Me  
 
-- 🧩 Final-year Computer Science student  
+- 🧩 Final-year Btech student  
 - 💫 I love turning abstract ideas into functional, beautiful systems  
 - 🤖 Exploring Machine Learning, Deep Learning, and Applied AI  
 - 🌐 Building web apps that are intuitive, scalable, and smart  
-- ⚙️ Currently learning **React**, **Express**, and **AWS Deployment**  
+
 
 ---
 
@@ -33,7 +33,7 @@ A curious mind exploring the intersection of <b>AI</b> 🧠 and <b>Full-Stack De
 `HTML` • `CSS` • `JavaScript` • `React` • `Node.js` • `Express.js` • `MongoDB`
 
 #### ☁️ Dev / Tools  
-`AWS (EC2, S3)` • `Git` • `GitHub` • `VS Code` • `Postman` • `Figma`
+`AWS (EC2, S3)` • `Git` • `GitHub` • `VS Code`
 
 ---
 
@@ -59,8 +59,8 @@ A curious mind exploring the intersection of <b>AI</b> 🧠 and <b>Full-Stack De
 
 ### 🌱 Currently Exploring  
 
-🪶 Building **intelligent full-stack apps** that can learn, adapt, and evolve.  
-🪴 Experimenting with **AI + Cloud Deployment** integrations.  
+🪶 Building intelligent full-stack apps that can learn, adapt, and evolve.  
+🪴 Experimenting with AI + Cloud Deployment integrations.  
 
 ---
 
@@ -82,7 +82,7 @@ A curious mind exploring the intersection of <b>AI</b> 🧠 and <b>Full-Stack De
 
 ### 💬 Quote  
 
-> *“Code is where imagination meets logic — and something real is born.”*
+> *“Code is where imagination meets logic and something real is born.”*
 
 ---
 
