@@ -45,6 +45,8 @@ A curious mind exploring the intersection of <b>AI</b> 🧠 and <b>Full-Stack De
 | 🌤️ **Frontend Mini Projects** | Simple To-Do & Weather apps built while learning frontend. | HTML, CSS, JS |
 | 💚 **Mental Health Tracker** | Full-stack app to track moods & visualize emotional patterns. | MERN Stack, Chart.js |
 | 🤖 **ML Experiments** | Notebooks on regression, classification, and ML fundamentals. | Python, Scikit-Learn |
+| 🐋 **Marine Mammal Classification (CLEARSIGHT)** | Deep Learning project for underwater species detection. | TensorFlow, Flask, AWS |
+| ⚙️ **BBoxCut Tool** | Automated image annotation and preprocessing utility. | Python, OpenCV |
 
 ---
 
@@ -82,7 +84,7 @@ A curious mind exploring the intersection of <b>AI</b> 🧠 and <b>Full-Stack De
 
 ### 💬 Quote  
 
-> *“Code is where imagination meets logic and something real is born.”*
+> *“Building the bridge between code and cognition.”*
 
 ---
 
